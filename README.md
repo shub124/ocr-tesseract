@@ -1,1 +1,1 @@
-# ocr-tesseract
+OPTICAL CHARACTER RECOGNITION basically converts a document or image into a readable or editable format for the computer.Here,we have used ocr for text recognition.For this,tesseract engine is used.Tesseract is an OCR engine with support for unicode and the ability to recognize more than 100 languages out of the box. It can be trained to recognize other languages. Tesseract has implemented a Long Short Term Memory (LSTM) based recognition engine. LSTM is a kind of Recurrent Neural Network (RNN)
